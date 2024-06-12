@@ -1,0 +1,1463 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L acheronSymbols:MXSwitch SW1
+U 1 1 6045773F
+P 1550 1700
+F 0 "SW1" H 1828 1796 50  0000 L CNN
+F 1 "Esc" H 1828 1713 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 1550 1700 50  0001 C CNN
+F 3 "" H 1550 1700 50  0001 C CNN
+	1    1550 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW10
+U 1 1 604581C8
+P 4750 1700
+F 0 "SW10" H 5028 1796 50  0000 L CNN
+F 1 "MXSwitch" H 5028 1713 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4750 1700 50  0001 C CNN
+F 3 "" H 4750 1700 50  0001 C CNN
+	1    4750 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW16
+U 1 1 604590BA
+P 6250 1700
+F 0 "SW16" H 6528 1796 50  0000 L CNN
+F 1 "MXSwitch" H 6528 1713 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6250 1700 50  0001 C CNN
+F 3 "" H 6250 1700 50  0001 C CNN
+	1    6250 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW2
+U 1 1 6045CB54
+P 1550 2900
+F 0 "SW2" H 1828 2996 50  0000 L CNN
+F 1 "MXSwitch" H 1828 2913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 1550 2900 50  0001 C CNN
+F 3 "" H 1550 2900 50  0001 C CNN
+	1    1550 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW8
+U 1 1 6045CB5E
+P 3200 2900
+F 0 "SW8" H 3478 2996 50  0000 L CNN
+F 1 "MXSwitch" H 3478 2913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 3200 2900 50  0001 C CNN
+F 3 "" H 3200 2900 50  0001 C CNN
+	1    3200 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW11
+U 1 1 6045CB68
+P 4750 2900
+F 0 "SW11" H 5028 2996 50  0000 L CNN
+F 1 "MXSwitch" H 5028 2913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4750 2900 50  0001 C CNN
+F 3 "" H 4750 2900 50  0001 C CNN
+	1    4750 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW17
+U 1 1 6045CB72
+P 6250 2900
+F 0 "SW17" H 6528 2996 50  0000 L CNN
+F 1 "MXSwitch" H 6528 2913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6250 2900 50  0001 C CNN
+F 3 "" H 6250 2900 50  0001 C CNN
+	1    6250 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW23
+U 1 1 6045CB7C
+P 7700 2900
+F 0 "SW23" H 7978 2996 50  0000 L CNN
+F 1 "MXSwitch" H 7978 2913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 7700 2900 50  0001 C CNN
+F 3 "" H 7700 2900 50  0001 C CNN
+	1    7700 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW29
+U 1 1 6045CB86
+P 8950 2900
+F 0 "SW29" H 9228 2996 50  0000 L CNN
+F 1 "MXSwitch" H 9228 2913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8950 2900 50  0001 C CNN
+F 3 "" H 8950 2900 50  0001 C CNN
+	1    8950 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW34
+U 1 1 6045CB90
+P 10200 2900
+F 0 "SW34" H 10478 2996 50  0000 L CNN
+F 1 "MXSwitch" H 10478 2913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10200 2900 50  0001 C CNN
+F 3 "" H 10200 2900 50  0001 C CNN
+	1    10200 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW12
+U 1 1 6045F030
+P 4750 4450
+F 0 "SW12" H 5028 4546 50  0000 L CNN
+F 1 "MXSwitch" H 5028 4463 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4750 4450 50  0001 C CNN
+F 3 "" H 4750 4450 50  0001 C CNN
+	1    4750 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW18
+U 1 1 6045F04A
+P 6250 4450
+F 0 "SW18" H 6528 4546 50  0000 L CNN
+F 1 "MXSwitch" H 6528 4463 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6250 4450 50  0001 C CNN
+F 3 "" H 6250 4450 50  0001 C CNN
+	1    6250 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW24
+U 1 1 6045F054
+P 7700 4450
+F 0 "SW24" H 7978 4546 50  0000 L CNN
+F 1 "MXSwitch" H 7978 4463 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 7700 4450 50  0001 C CNN
+F 3 "" H 7700 4450 50  0001 C CNN
+	1    7700 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW30
+U 1 1 6045F05E
+P 8950 4450
+F 0 "SW30" H 9228 4546 50  0000 L CNN
+F 1 "MXSwitch" H 9228 4463 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8950 4450 50  0001 C CNN
+F 3 "" H 8950 4450 50  0001 C CNN
+	1    8950 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW35
+U 1 1 6045F068
+P 10200 4450
+F 0 "SW35" H 10478 4546 50  0000 L CNN
+F 1 "MXSwitch" H 10478 4463 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10200 4450 50  0001 C CNN
+F 3 "" H 10200 4450 50  0001 C CNN
+	1    10200 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW13
+U 1 1 6047650C
+P 4750 6100
+F 0 "SW13" H 5028 6196 50  0000 L CNN
+F 1 "MXSwitch" H 5028 6113 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4750 6100 50  0001 C CNN
+F 3 "" H 4750 6100 50  0001 C CNN
+	1    4750 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW19
+U 1 1 60476516
+P 6250 6100
+F 0 "SW19" H 6528 6196 50  0000 L CNN
+F 1 "MXSwitch" H 6528 6113 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6250 6100 50  0001 C CNN
+F 3 "" H 6250 6100 50  0001 C CNN
+	1    6250 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW25
+U 1 1 60476520
+P 7700 6100
+F 0 "SW25" H 7978 6196 50  0000 L CNN
+F 1 "MXSwitch" H 7978 6113 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 7700 6100 50  0001 C CNN
+F 3 "" H 7700 6100 50  0001 C CNN
+	1    7700 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW31
+U 1 1 6047652A
+P 8950 6100
+F 0 "SW31" H 9228 6196 50  0000 L CNN
+F 1 "MXSwitch" H 9228 6113 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8950 6100 50  0001 C CNN
+F 3 "" H 8950 6100 50  0001 C CNN
+	1    8950 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW14
+U 1 1 6047BBD2
+P 4750 7900
+F 0 "SW14" H 5028 7996 50  0000 L CNN
+F 1 "MXSwitch" H 5028 7913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4750 7900 50  0001 C CNN
+F 3 "" H 4750 7900 50  0001 C CNN
+	1    4750 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW20
+U 1 1 6047BBDC
+P 6250 7900
+F 0 "SW20" H 6528 7996 50  0000 L CNN
+F 1 "MXSwitch" H 6528 7913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6250 7900 50  0001 C CNN
+F 3 "" H 6250 7900 50  0001 C CNN
+	1    6250 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW26
+U 1 1 6047BBE6
+P 7700 7900
+F 0 "SW26" H 7978 7996 50  0000 L CNN
+F 1 "MXSwitch" H 7978 7913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 7700 7900 50  0001 C CNN
+F 3 "" H 7700 7900 50  0001 C CNN
+	1    7700 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW32
+U 1 1 6047BBF0
+P 8950 7900
+F 0 "SW32" H 9228 7996 50  0000 L CNN
+F 1 "MXSwitch" H 9228 7913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8950 7900 50  0001 C CNN
+F 3 "" H 8950 7900 50  0001 C CNN
+	1    8950 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW39
+U 1 1 6047EC7A
+P 11350 1700
+F 0 "SW39" H 11628 1796 50  0000 L CNN
+F 1 "MXSwitch" H 11628 1713 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 11350 1700 50  0001 C CNN
+F 3 "" H 11350 1700 50  0001 C CNN
+	1    11350 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW40
+U 1 1 6047EC84
+P 11350 2900
+F 0 "SW40" H 11628 2996 50  0000 L CNN
+F 1 "MXSwitch" H 11628 2913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 11350 2900 50  0001 C CNN
+F 3 "" H 11350 2900 50  0001 C CNN
+	1    11350 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW15
+U 1 1 6048CB9E
+P 4750 9400
+F 0 "SW15" H 5028 9496 50  0000 L CNN
+F 1 "MXSwitch" H 5028 9413 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 4750 9400 50  0001 C CNN
+F 3 "" H 4750 9400 50  0001 C CNN
+	1    4750 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW21
+U 1 1 6048FB89
+P 6250 9400
+F 0 "SW21" H 6528 9496 50  0000 L CNN
+F 1 "MXSwitch" H 6528 9413 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 6250 9400 50  0001 C CNN
+F 3 "" H 6250 9400 50  0001 C CNN
+	1    6250 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW27
+U 1 1 6048FB93
+P 7700 9400
+F 0 "SW27" H 7978 9496 50  0000 L CNN
+F 1 "2u" H 7978 9413 39  0000 L CNN
+F 2 "MX_Only:MXOnly-2U-Hotswap" H 7700 9400 50  0001 C CNN
+F 3 "" H 7700 9400 50  0001 C CNN
+	1    7700 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW41
+U 1 1 60491FD7
+P 11350 4450
+F 0 "SW41" H 11628 4546 50  0000 L CNN
+F 1 "2u" H 11628 4463 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:2u_Hotswap_Vertical" H 11350 4450 50  0001 C CNN
+F 3 "" H 11350 4450 50  0001 C CNN
+	1    11350 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW42
+U 1 1 604926D1
+P 11350 7900
+F 0 "SW42" H 11628 7996 50  0000 L CNN
+F 1 "2u" H 11628 7913 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:2u_Hotswap_Vertical" H 11350 7900 50  0001 C CNN
+F 3 "" H 11350 7900 50  0001 C CNN
+	1    11350 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW33
+U 1 1 604590D8
+P 10200 1700
+F 0 "SW33" H 10478 1796 50  0000 L CNN
+F 1 "MXSwitch" H 10478 1713 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10200 1700 50  0001 C CNN
+F 3 "" H 10200 1700 50  0001 C CNN
+	1    10200 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW28
+U 1 1 604590CE
+P 8950 1700
+F 0 "SW28" H 9228 1796 50  0000 L CNN
+F 1 "MXSwitch" H 9228 1713 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 8950 1700 50  0001 C CNN
+F 3 "" H 8950 1700 50  0001 C CNN
+	1    8950 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW3
+U 1 1 60535E46
+P 1550 4450
+F 0 "SW3" H 1828 4546 50  0000 L CNN
+F 1 "2u" H 1828 4463 39  0000 L CNN
+F 2 "MX_Only:MXOnly-2U-Hotswap" H 1550 4450 50  0001 C CNN
+F 3 "" H 1550 4450 50  0001 C CNN
+	1    1550 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW4
+U 1 1 60535E50
+P 1550 6100
+F 0 "SW4" H 1828 6196 50  0000 L CNN
+F 1 "2u" H 1828 6113 39  0000 L CNN
+F 2 "MX_Only:MXOnly-1.75U-Hotswap" H 1550 6100 50  0001 C CNN
+F 3 "" H 1550 6100 50  0001 C CNN
+	1    1550 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW5
+U 1 1 60535E5A
+P 1550 7900
+F 0 "SW5" H 1828 7996 50  0000 L CNN
+F 1 "2u" H 1828 7913 39  0000 L CNN
+F 2 "MX_Only:MXOnly-2U-Hotswap" H 1550 7900 50  0001 C CNN
+F 3 "" H 1550 7900 50  0001 C CNN
+	1    1550 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW9
+U 1 1 6048EAC0
+P 3200 9400
+F 0 "SW9" H 3478 9496 50  0000 L CNN
+F 1 "MXSwitch" H 3478 9413 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 3200 9400 50  0001 C CNN
+F 3 "" H 3200 9400 50  0001 C CNN
+	1    3200 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 6056D6A0
+P 1550 1200
+F 0 "D1" H 1550 1417 50  0000 C CNN
+F 1 "D" H 1550 1326 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1550 1200 50  0001 C CNN
+F 3 "~" H 1550 1200 50  0001 C CNN
+	1    1550 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 60571562
+P 4750 1200
+F 0 "D10" H 4750 1417 50  0000 C CNN
+F 1 "D" H 4750 1326 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 1200 50  0001 C CNN
+F 3 "~" H 4750 1200 50  0001 C CNN
+	1    4750 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 60573044
+P 6250 1200
+F 0 "D16" H 6250 1417 50  0000 C CNN
+F 1 "D" H 6250 1326 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6250 1200 50  0001 C CNN
+F 3 "~" H 6250 1200 50  0001 C CNN
+	1    6250 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D22
+U 1 1 60577159
+P 7700 1200
+F 0 "D22" H 7700 1417 50  0000 C CNN
+F 1 "D" H 7700 1326 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7700 1200 50  0001 C CNN
+F 3 "~" H 7700 1200 50  0001 C CNN
+	1    7700 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D28
+U 1 1 6057BD26
+P 8950 1200
+F 0 "D28" H 8950 1417 50  0000 C CNN
+F 1 "D" H 8950 1326 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8950 1200 50  0001 C CNN
+F 3 "~" H 8950 1200 50  0001 C CNN
+	1    8950 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D33
+U 1 1 6057BDE6
+P 10200 1200
+F 0 "D33" H 10200 1417 50  0000 C CNN
+F 1 "D" H 10200 1326 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10200 1200 50  0001 C CNN
+F 3 "~" H 10200 1200 50  0001 C CNN
+	1    10200 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D39
+U 1 1 6057C10E
+P 11350 1200
+F 0 "D39" H 11350 1417 50  0000 C CNN
+F 1 "D" H 11350 1326 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 11350 1200 50  0001 C CNN
+F 3 "~" H 11350 1200 50  0001 C CNN
+	1    11350 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D40
+U 1 1 6057C436
+P 11350 2400
+F 0 "D40" H 11350 2617 50  0000 C CNN
+F 1 "D" H 11350 2526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 11350 2400 50  0001 C CNN
+F 3 "~" H 11350 2400 50  0001 C CNN
+	1    11350 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D34
+U 1 1 6057C7B4
+P 10200 2400
+F 0 "D34" H 10200 2617 50  0000 C CNN
+F 1 "D" H 10200 2526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10200 2400 50  0001 C CNN
+F 3 "~" H 10200 2400 50  0001 C CNN
+	1    10200 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D29
+U 1 1 6057CCDE
+P 8950 2400
+F 0 "D29" H 8950 2617 50  0000 C CNN
+F 1 "D" H 8950 2526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8950 2400 50  0001 C CNN
+F 3 "~" H 8950 2400 50  0001 C CNN
+	1    8950 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D23
+U 1 1 6057D2D0
+P 7700 2400
+F 0 "D23" H 7700 2617 50  0000 C CNN
+F 1 "D" H 7700 2526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7700 2400 50  0001 C CNN
+F 3 "~" H 7700 2400 50  0001 C CNN
+	1    7700 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 6057D618
+P 6250 2400
+F 0 "D17" H 6250 2617 50  0000 C CNN
+F 1 "D" H 6250 2526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6250 2400 50  0001 C CNN
+F 3 "~" H 6250 2400 50  0001 C CNN
+	1    6250 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 6057DE10
+P 4750 2400
+F 0 "D11" H 4750 2617 50  0000 C CNN
+F 1 "D" H 4750 2526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 2400 50  0001 C CNN
+F 3 "~" H 4750 2400 50  0001 C CNN
+	1    4750 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 6057E6DA
+P 3200 2400
+F 0 "D8" H 3200 2617 50  0000 C CNN
+F 1 "D" H 3200 2526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3200 2400 50  0001 C CNN
+F 3 "~" H 3200 2400 50  0001 C CNN
+	1    3200 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 6057F0D6
+P 1550 2400
+F 0 "D2" H 1550 2617 50  0000 C CNN
+F 1 "D" H 1550 2526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1550 2400 50  0001 C CNN
+F 3 "~" H 1550 2400 50  0001 C CNN
+	1    1550 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 6057FD64
+P 1550 3950
+F 0 "D3" H 1550 4167 50  0000 C CNN
+F 1 "D" H 1550 4076 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1550 3950 50  0001 C CNN
+F 3 "~" H 1550 3950 50  0001 C CNN
+	1    1550 3950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 60580BC2
+P 4750 3950
+F 0 "D12" H 4750 4167 50  0000 C CNN
+F 1 "D" H 4750 4076 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 3950 50  0001 C CNN
+F 3 "~" H 4750 3950 50  0001 C CNN
+	1    4750 3950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D18
+U 1 1 60581970
+P 6250 3950
+F 0 "D18" H 6250 4167 50  0000 C CNN
+F 1 "D" H 6250 4076 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6250 3950 50  0001 C CNN
+F 3 "~" H 6250 3950 50  0001 C CNN
+	1    6250 3950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D24
+U 1 1 60581BEA
+P 7700 3950
+F 0 "D24" H 7700 4167 50  0000 C CNN
+F 1 "D" H 7700 4076 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7700 3950 50  0001 C CNN
+F 3 "~" H 7700 3950 50  0001 C CNN
+	1    7700 3950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D30
+U 1 1 605820E2
+P 8950 3950
+F 0 "D30" H 8950 4167 50  0000 C CNN
+F 1 "D" H 8950 4076 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8950 3950 50  0001 C CNN
+F 3 "~" H 8950 3950 50  0001 C CNN
+	1    8950 3950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D35
+U 1 1 6058275A
+P 10200 3950
+F 0 "D35" H 10200 4167 50  0000 C CNN
+F 1 "D" H 10200 4076 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10200 3950 50  0001 C CNN
+F 3 "~" H 10200 3950 50  0001 C CNN
+	1    10200 3950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D41
+U 1 1 6058281A
+P 11350 3950
+F 0 "D41" H 11350 4167 50  0000 C CNN
+F 1 "D" H 11350 4076 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 11350 3950 50  0001 C CNN
+F 3 "~" H 11350 3950 50  0001 C CNN
+	1    11350 3950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D31
+U 1 1 60584C2C
+P 8950 5600
+F 0 "D31" H 8950 5817 50  0000 C CNN
+F 1 "D" H 8950 5726 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8950 5600 50  0001 C CNN
+F 3 "~" H 8950 5600 50  0001 C CNN
+	1    8950 5600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D25
+U 1 1 60584CB6
+P 7700 5600
+F 0 "D25" H 7700 5817 50  0000 C CNN
+F 1 "D" H 7700 5726 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7700 5600 50  0001 C CNN
+F 3 "~" H 7700 5600 50  0001 C CNN
+	1    7700 5600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 60584DA2
+P 6250 5600
+F 0 "D19" H 6250 5817 50  0000 C CNN
+F 1 "D" H 6250 5726 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6250 5600 50  0001 C CNN
+F 3 "~" H 6250 5600 50  0001 C CNN
+	1    6250 5600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 60584E2C
+P 4750 5600
+F 0 "D13" H 4750 5817 50  0000 C CNN
+F 1 "D" H 4750 5726 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 5600 50  0001 C CNN
+F 3 "~" H 4750 5600 50  0001 C CNN
+	1    4750 5600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 60584EB6
+P 1550 5600
+F 0 "D4" H 1550 5817 50  0000 C CNN
+F 1 "D" H 1550 5726 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1550 5600 50  0001 C CNN
+F 3 "~" H 1550 5600 50  0001 C CNN
+	1    1550 5600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 60584F40
+P 1550 7400
+F 0 "D5" H 1550 7617 50  0000 C CNN
+F 1 "D" H 1550 7526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1550 7400 50  0001 C CNN
+F 3 "~" H 1550 7400 50  0001 C CNN
+	1    1550 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 60584FCA
+P 4750 7400
+F 0 "D14" H 4750 7617 50  0000 C CNN
+F 1 "D" H 4750 7526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 7400 50  0001 C CNN
+F 3 "~" H 4750 7400 50  0001 C CNN
+	1    4750 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D20
+U 1 1 60585054
+P 6250 7400
+F 0 "D20" H 6250 7617 50  0000 C CNN
+F 1 "D" H 6250 7526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6250 7400 50  0001 C CNN
+F 3 "~" H 6250 7400 50  0001 C CNN
+	1    6250 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D26
+U 1 1 605850DE
+P 7700 7400
+F 0 "D26" H 7700 7617 50  0000 C CNN
+F 1 "D" H 7700 7526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7700 7400 50  0001 C CNN
+F 3 "~" H 7700 7400 50  0001 C CNN
+	1    7700 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D32
+U 1 1 60585168
+P 8950 7400
+F 0 "D32" H 8950 7617 50  0000 C CNN
+F 1 "D" H 8950 7526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8950 7400 50  0001 C CNN
+F 3 "~" H 8950 7400 50  0001 C CNN
+	1    8950 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D42
+U 1 1 6058526C
+P 11350 7400
+F 0 "D42" H 11350 7617 50  0000 C CNN
+F 1 "D" H 11350 7526 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 11350 7400 50  0001 C CNN
+F 3 "~" H 11350 7400 50  0001 C CNN
+	1    11350 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D38
+U 1 1 605852F6
+P 10200 8900
+F 0 "D38" H 10200 9117 50  0000 C CNN
+F 1 "D" H 10200 9026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10200 8900 50  0001 C CNN
+F 3 "~" H 10200 8900 50  0001 C CNN
+	1    10200 8900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D27
+U 1 1 60585DAC
+P 7700 8900
+F 0 "D27" H 7700 9117 50  0000 C CNN
+F 1 "D" H 7700 9026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7700 8900 50  0001 C CNN
+F 3 "~" H 7700 8900 50  0001 C CNN
+	1    7700 8900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D21
+U 1 1 60585E36
+P 6250 8900
+F 0 "D21" H 6250 9117 50  0000 C CNN
+F 1 "D" H 6250 9026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6250 8900 50  0001 C CNN
+F 3 "~" H 6250 8900 50  0001 C CNN
+	1    6250 8900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 60585EC0
+P 4750 8900
+F 0 "D15" H 4750 9117 50  0000 C CNN
+F 1 "D" H 4750 9026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4750 8900 50  0001 C CNN
+F 3 "~" H 4750 8900 50  0001 C CNN
+	1    4750 8900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 60585F4A
+P 3200 8900
+F 0 "D9" H 3200 9117 50  0000 C CNN
+F 1 "D" H 3200 9026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3200 8900 50  0001 C CNN
+F 3 "~" H 3200 8900 50  0001 C CNN
+	1    3200 8900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	11350 1050 10200 1050
+Wire Wire Line
+	10200 1050 8950 1050
+Connection ~ 10200 1050
+Wire Wire Line
+	8950 1050 7700 1050
+Connection ~ 8950 1050
+Wire Wire Line
+	7700 1050 6250 1050
+Connection ~ 7700 1050
+Connection ~ 4750 1050
+Connection ~ 6250 1050
+Wire Wire Line
+	6250 1050 4750 1050
+Wire Wire Line
+	11350 2250 10200 2250
+Connection ~ 3200 2250
+Wire Wire Line
+	3200 2250 1550 2250
+Connection ~ 4750 2250
+Wire Wire Line
+	4750 2250 3200 2250
+Connection ~ 6250 2250
+Wire Wire Line
+	6250 2250 4750 2250
+Connection ~ 7700 2250
+Wire Wire Line
+	7700 2250 6250 2250
+Connection ~ 8950 2250
+Wire Wire Line
+	8950 2250 7700 2250
+Connection ~ 10200 2250
+Wire Wire Line
+	10200 2250 8950 2250
+Wire Wire Line
+	11350 3800 10200 3800
+Connection ~ 4750 3800
+Wire Wire Line
+	4750 3800 3800 3800
+Connection ~ 6250 3800
+Wire Wire Line
+	6250 3800 4750 3800
+Connection ~ 7700 3800
+Wire Wire Line
+	7700 3800 6250 3800
+Connection ~ 8950 3800
+Wire Wire Line
+	8950 3800 7700 3800
+Connection ~ 10200 3800
+Wire Wire Line
+	10200 3800 8950 3800
+Wire Wire Line
+	10200 5450 8950 5450
+Connection ~ 4750 5450
+Connection ~ 6250 5450
+Wire Wire Line
+	6250 5450 4750 5450
+Connection ~ 7700 5450
+Wire Wire Line
+	7700 5450 6250 5450
+Connection ~ 8950 5450
+Wire Wire Line
+	8950 5450 7700 5450
+Connection ~ 4750 7250
+Wire Wire Line
+	4750 7250 3850 7250
+Connection ~ 6250 7250
+Wire Wire Line
+	6250 7250 4750 7250
+Connection ~ 7700 7250
+Wire Wire Line
+	7700 7250 6250 7250
+Connection ~ 8950 7250
+Wire Wire Line
+	8950 7250 7700 7250
+Connection ~ 3200 8750
+Wire Wire Line
+	3200 8750 1550 8750
+Connection ~ 4750 8750
+Wire Wire Line
+	4750 8750 3200 8750
+Connection ~ 6250 8750
+Wire Wire Line
+	6250 8750 4750 8750
+Connection ~ 7700 8750
+Wire Wire Line
+	7700 8750 6250 8750
+Wire Wire Line
+	8600 4450 8600 6100
+Connection ~ 8600 6100
+Wire Wire Line
+	8600 6100 8600 7900
+Wire Wire Line
+	8600 1700 8600 2900
+Connection ~ 8600 4450
+Connection ~ 8600 2900
+Wire Wire Line
+	8600 2900 8600 4450
+Wire Wire Line
+	9850 4450 9850 2900
+Connection ~ 9850 4450
+Connection ~ 9850 2900
+Wire Wire Line
+	9850 2900 9850 1700
+Wire Wire Line
+	11000 1700 11000 2900
+Connection ~ 11000 4450
+Connection ~ 11000 2900
+Wire Wire Line
+	11000 2900 11000 4450
+Wire Wire Line
+	7350 9400 7350 7900
+Connection ~ 7350 2900
+Connection ~ 7350 4450
+Wire Wire Line
+	7350 4450 7350 2900
+Connection ~ 7350 6100
+Wire Wire Line
+	7350 6100 7350 4450
+Connection ~ 7350 7900
+Wire Wire Line
+	7350 7900 7350 6100
+Wire Wire Line
+	5900 1700 5900 2900
+Connection ~ 5900 2900
+Wire Wire Line
+	5900 2900 5900 4450
+Connection ~ 5900 4450
+Wire Wire Line
+	5900 4450 5900 6100
+Connection ~ 5900 6100
+Wire Wire Line
+	5900 6100 5900 7900
+Connection ~ 5900 7900
+Wire Wire Line
+	5900 7900 5900 9400
+Wire Wire Line
+	4400 9400 4400 7900
+Connection ~ 4400 2900
+Wire Wire Line
+	4400 2900 4400 1700
+Connection ~ 4400 4450
+Wire Wire Line
+	4400 4450 4400 2900
+Connection ~ 4400 6100
+Wire Wire Line
+	4400 6100 4400 4450
+Connection ~ 4400 7900
+Wire Wire Line
+	4400 7900 4400 6100
+Wire Wire Line
+	1200 9400 1200 7900
+Connection ~ 1200 2900
+Wire Wire Line
+	1200 2900 1200 1700
+Connection ~ 1200 4450
+Wire Wire Line
+	1200 4450 1200 2900
+Connection ~ 1200 6100
+Wire Wire Line
+	1200 6100 1200 4450
+Connection ~ 1200 7900
+Wire Wire Line
+	1200 7900 1200 6100
+Wire Wire Line
+	11000 1700 11000 800 
+Connection ~ 11000 1700
+Wire Wire Line
+	9850 1700 9850 800 
+Connection ~ 9850 1700
+Wire Wire Line
+	8600 1700 8600 800 
+Connection ~ 8600 1700
+Wire Wire Line
+	5900 1700 5900 800 
+Connection ~ 5900 1700
+Wire Wire Line
+	4400 1700 4400 800 
+Connection ~ 4400 1700
+Wire Wire Line
+	1200 1700 1200 800 
+Connection ~ 1200 1700
+Wire Wire Line
+	1550 2250 800  2250
+Connection ~ 1550 2250
+Wire Wire Line
+	1550 3800 850  3800
+Connection ~ 1550 3800
+Wire Wire Line
+	1550 5450 750  5450
+Connection ~ 1550 5450
+Wire Wire Line
+	1550 7250 800  7250
+Connection ~ 1550 7250
+Wire Wire Line
+	1550 8750 700  8750
+Connection ~ 1550 8750
+Text GLabel 750  1050 0    50   Input ~ 0
+Row1
+Wire Wire Line
+	1550 1050 750  1050
+Connection ~ 1550 1050
+Text GLabel 1200 800  0    50   Input ~ 0
+COL1
+Text GLabel 2850 750  0    50   Input ~ 0
+COL2
+Text GLabel 4400 800  0    50   Input ~ 0
+COL3
+Text GLabel 5900 800  0    50   Input ~ 0
+COL4
+Text GLabel 7350 800  0    50   Input ~ 0
+COL5
+Text GLabel 8600 800  0    50   Input ~ 0
+COL6
+Text GLabel 9850 800  0    50   Input ~ 0
+COL7
+Text GLabel 11000 800  0    50   Input ~ 0
+COL8
+Text GLabel 800  2250 0    50   Input ~ 0
+Row2
+Text GLabel 850  3800 0    50   Input ~ 0
+Row3
+Text GLabel 750  5450 0    50   Input ~ 0
+Row4
+Text GLabel 800  7250 0    50   Input ~ 0
+Row5
+Text GLabel 700  8750 0    50   Input ~ 0
+Row6
+Text GLabel 13950 2000 0    50   Input ~ 0
+Row1
+Text GLabel 13950 2100 0    50   Input ~ 0
+Row2
+Text GLabel 13950 2200 0    50   Input ~ 0
+Row3
+Text GLabel 13950 2300 0    50   Input ~ 0
+Row4
+Text GLabel 13950 2400 0    50   Input ~ 0
+Row5
+Text GLabel 13950 2500 0    50   Input ~ 0
+Row6
+Text GLabel 15350 1950 2    50   Input ~ 0
+COL7
+Text GLabel 15350 1850 2    50   Input ~ 0
+COL8
+Text GLabel 15350 2550 2    50   Input ~ 0
+COL1
+Text GLabel 15350 2450 2    50   Input ~ 0
+COL2
+Text GLabel 15350 2350 2    50   Input ~ 0
+COL3
+Text GLabel 15350 2250 2    50   Input ~ 0
+COL4
+Text GLabel 15350 2150 2    50   Input ~ 0
+COL5
+Text GLabel 15350 2050 2    50   Input ~ 0
+COL6
+Wire Wire Line
+	9850 4450 9850 6100
+$Comp
+L acheronSymbols:MXSwitch SW36
+U 1 1 60474EA0
+P 10200 6100
+F 0 "SW36" H 10478 6196 50  0000 L CNN
+F 1 "MXSwitch" H 10478 6113 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10200 6100 50  0001 C CNN
+F 3 "" H 10200 6100 50  0001 C CNN
+	1    10200 6100
+	1    0    0    -1  
+$EndComp
+Connection ~ 9850 6100
+$Comp
+L acheronSymbols:MXSwitch SW38
+U 1 1 6048C1FF
+P 10200 9400
+F 0 "SW38" H 10478 9496 50  0000 L CNN
+F 1 "MXSwitch" H 10478 9413 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10200 9400 50  0001 C CNN
+F 3 "" H 10200 9400 50  0001 C CNN
+	1    10200 9400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2850 2900 2850 750 
+Connection ~ 2850 2900
+Wire Wire Line
+	7350 800  7350 1700
+$Comp
+L acheronSymbols:MXSwitch SW22
+U 1 1 604A4FF2
+P 7700 1700
+F 0 "SW22" H 7978 1796 50  0000 L CNN
+F 1 "MXSwitch" H 7978 1713 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 7700 1700 50  0001 C CNN
+F 3 "" H 7700 1700 50  0001 C CNN
+	1    7700 1700
+	1    0    0    -1  
+$EndComp
+Connection ~ 7350 1700
+Wire Wire Line
+	7350 1700 7350 2900
+Connection ~ 9850 7850
+Wire Wire Line
+	9850 7850 9850 9400
+Wire Wire Line
+	9850 6100 9850 7850
+$Comp
+L acheronSymbols:MXSwitch SW37
+U 1 1 6048124A
+P 10200 7850
+F 0 "SW37" H 10478 7946 50  0000 L CNN
+F 1 "MXSwitch" H 10478 7863 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 10200 7850 50  0001 C CNN
+F 3 "" H 10200 7850 50  0001 C CNN
+	1    10200 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L acheronSymbols:MXSwitch SW6
+U 1 1 6048851B
+P 1550 9400
+F 0 "SW6" H 1828 9496 50  0000 L CNN
+F 1 "MXSwitch" H 1828 9413 39  0000 L CNN
+F 2 "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_1.00u" H 1550 9400 50  0001 C CNN
+F 3 "" H 1550 9400 50  0001 C CNN
+	1    1550 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 60585FD4
+P 1550 8900
+F 0 "D6" H 1550 9117 50  0000 C CNN
+F 1 "D" H 1550 9026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1550 8900 50  0001 C CNN
+F 3 "~" H 1550 8900 50  0001 C CNN
+	1    1550 8900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D36
+U 1 1 6053A4E4
+P 10200 5600
+F 0 "D36" H 10200 5817 50  0000 C CNN
+F 1 "D" H 10200 5726 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10200 5600 50  0001 C CNN
+F 3 "~" H 10200 5600 50  0001 C CNN
+	1    10200 5600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8950 7250 10400 7250
+$Comp
+L Device:D D37
+U 1 1 6054528A
+P 10250 7050
+F 0 "D37" H 10250 7267 50  0000 C CNN
+F 1 "D" H 10250 7176 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10250 7050 50  0001 C CNN
+F 3 "~" H 10250 7050 50  0001 C CNN
+	1    10250 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10100 7050 10100 7500
+Wire Wire Line
+	10100 7500 10200 7500
+Wire Wire Line
+	10400 7050 10400 7250
+Connection ~ 10400 7250
+Wire Wire Line
+	10400 7250 11350 7250
+$Comp
+L Connector:Screw_Terminal_01x04 J1
+U 1 1 6063CE10
+P 14300 5550
+F 0 "J1" H 14380 5542 50  0000 L CNN
+F 1 "Screw_Terminal_01x04" H 14380 5451 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 14300 5550 50  0001 C CNN
+F 3 "~" H 14300 5550 50  0001 C CNN
+	1    14300 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0101
+U 1 1 6063E46E
+P 14100 5550
+F 0 "#PWR0101" H 14100 5400 50  0001 C CNN
+F 1 "+5V" H 14115 5723 50  0000 C CNN
+F 2 "" H 14100 5550 50  0001 C CNN
+F 3 "" H 14100 5550 50  0001 C CNN
+	1    14100 5550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR0102
+U 1 1 60642D0C
+P 15350 1750
+F 0 "#PWR0102" H 15350 1600 50  0001 C CNN
+F 1 "+5V" V 15365 1878 50  0000 L CNN
+F 2 "" H 15350 1750 50  0001 C CNN
+F 3 "" H 15350 1750 50  0001 C CNN
+	1    15350 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 606454DF
+P 15350 1550
+F 0 "#PWR0103" H 15350 1300 50  0001 C CNN
+F 1 "GND" V 15355 1422 50  0000 R CNN
+F 2 "" H 15350 1550 50  0001 C CNN
+F 3 "" H 15350 1550 50  0001 C CNN
+	1    15350 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 60646905
+P 14100 5450
+F 0 "#PWR0104" H 14100 5200 50  0001 C CNN
+F 1 "GND" V 14105 5322 50  0000 R CNN
+F 2 "" H 14100 5450 50  0001 C CNN
+F 3 "" H 14100 5450 50  0001 C CNN
+	1    14100 5450
+	0    1    1    0   
+$EndComp
+Text GLabel 14100 5650 0    50   Input ~ 0
+SCL
+Text GLabel 14100 5750 0    50   Input ~ 0
+SDA
+Text GLabel 13950 1900 0    50   Input ~ 0
+SCL
+Text GLabel 13950 1800 0    50   Input ~ 0
+SDA
+$Comp
+L Device:Rotary_Encoder_Switch SW7
+U 1 1 606D548A
+P 10450 10450
+F 0 "SW7" H 10450 10817 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 10450 10726 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 10300 10610 50  0001 C CNN
+F 3 "~" H 10450 10710 50  0001 C CNN
+	1    10450 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D43
+U 1 1 60737EF3
+P 10750 10200
+F 0 "D43" H 10750 10417 50  0000 C CNN
+F 1 "D" H 10750 10326 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10750 10200 50  0001 C CNN
+F 3 "~" H 10750 10200 50  0001 C CNN
+	1    10750 10200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	11000 7900 11000 4450
+Wire Wire Line
+	10750 10050 10750 8750
+Wire Wire Line
+	10750 8750 10200 8750
+Connection ~ 10200 8750
+Wire Wire Line
+	10750 10550 11000 10550
+Wire Wire Line
+	11000 10550 11000 7900
+Connection ~ 11000 7900
+$Comp
+L Device:Rotary_Encoder_Switch SW44
+U 1 1 607A0C6A
+P 3550 8000
+F 0 "SW44" H 3550 8367 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 3550 8276 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 3400 8160 50  0001 C CNN
+F 3 "~" H 3550 8260 50  0001 C CNN
+	1    3550 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch SW43
+U 1 1 607A433F
+P 3500 4600
+F 0 "SW43" H 3500 4967 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 3500 4876 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 3350 4760 50  0001 C CNN
+F 3 "~" H 3500 4860 50  0001 C CNN
+	1    3500 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D44
+U 1 1 607AB913
+P 3850 7750
+F 0 "D44" H 3850 7967 50  0000 C CNN
+F 1 "D" H 3850 7876 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3850 7750 50  0001 C CNN
+F 3 "~" H 3850 7750 50  0001 C CNN
+	1    3850 7750
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 607AE646
+P 3800 4350
+F 0 "D7" H 3800 4567 50  0000 C CNN
+F 1 "D" H 3800 4476 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3800 4350 50  0001 C CNN
+F 3 "~" H 3800 4350 50  0001 C CNN
+	1    3800 4350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3800 4200 3800 3800
+Connection ~ 3800 3800
+Wire Wire Line
+	3800 3800 1550 3800
+Wire Wire Line
+	3800 4700 3800 4950
+Wire Wire Line
+	3800 4950 2850 4950
+Connection ~ 2850 4950
+Wire Wire Line
+	3850 7600 3850 7250
+Connection ~ 3850 7250
+Wire Wire Line
+	3850 7250 1550 7250
+Wire Wire Line
+	3850 8100 3850 8450
+Wire Wire Line
+	3850 8450 2850 8450
+Connection ~ 2850 8450
+Wire Wire Line
+	2850 8450 2850 9400
+$Comp
+L Switch:SW_Push_Open_Dual SW45
+U 1 1 60FB0CDE
+P 13750 7400
+F 0 "SW45" H 13750 7610 50  0000 C CNN
+F 1 "SW_Push_Open_Dual" H 13750 7519 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 13750 7600 50  0001 C CNN
+F 3 "~" H 13750 7600 50  0001 C CNN
+	1    13750 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 60FB15A9
+P 13950 7400
+F 0 "#PWR0105" H 13950 7150 50  0001 C CNN
+F 1 "GND" H 13955 7227 50  0000 C CNN
+F 2 "" H 13950 7400 50  0001 C CNN
+F 3 "" H 13950 7400 50  0001 C CNN
+	1    13950 7400
+	1    0    0    -1  
+$EndComp
+Text GLabel 15350 1650 2    50   Input ~ 0
+RST
+Text GLabel 13550 7400 0    50   Input ~ 0
+RST
+Wire Wire Line
+	1550 1050 4750 1050
+Wire Wire Line
+	2850 2900 2850 4950
+Wire Wire Line
+	1550 5450 4750 5450
+Wire Wire Line
+	2850 4950 2850 8450
+Wire Wire Line
+	7700 8750 10200 8750
+$Comp
+L promicro:EliteC U1
+U 1 1 6114E2DF
+P 14650 2150
+F 0 "U1" H 14650 3303 60  0000 C CNN
+F 1 "EliteC" H 14650 3197 60  0000 C CNN
+F 2 "Keebio-Parts:Elite-C-castellated-29pin-holes" H 14650 3091 60  0000 C CNN
+F 3 "" H 14750 1100 60  0000 C CNN
+	1    14650 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 611566AB
+P 3200 4600
+F 0 "#PWR0106" H 3200 4350 50  0001 C CNN
+F 1 "GND" V 3205 4472 50  0000 R CNN
+F 2 "" H 3200 4600 50  0001 C CNN
+F 3 "" H 3200 4600 50  0001 C CNN
+	1    3200 4600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 611595D7
+P 3250 8000
+F 0 "#PWR0107" H 3250 7750 50  0001 C CNN
+F 1 "GND" V 3255 7872 50  0000 R CNN
+F 2 "" H 3250 8000 50  0001 C CNN
+F 3 "" H 3250 8000 50  0001 C CNN
+	1    3250 8000
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 6115C378
+P 10150 10450
+F 0 "#PWR0108" H 10150 10200 50  0001 C CNN
+F 1 "GND" V 10155 10322 50  0000 R CNN
+F 2 "" H 10150 10450 50  0001 C CNN
+F 3 "" H 10150 10450 50  0001 C CNN
+	1    10150 10450
+	0    1    1    0   
+$EndComp
+Text GLabel 14300 2700 3    50   Input ~ 0
+Enc1
+Text GLabel 14450 2700 3    50   Input ~ 0
+Enc2
+Text GLabel 14600 2700 3    50   Input ~ 0
+Enc3
+Text GLabel 3200 4500 0    50   Input ~ 0
+Enc1
+Text GLabel 3200 4700 0    50   Input ~ 0
+Enc2
+Text GLabel 3250 7900 0    50   Input ~ 0
+Enc2
+Text GLabel 3250 8100 0    50   Input ~ 0
+Enc3
+Text GLabel 10150 10350 0    50   Input ~ 0
+Enc1
+Text GLabel 10150 10550 0    50   Input ~ 0
+Enc3
+$EndSCHEMATC

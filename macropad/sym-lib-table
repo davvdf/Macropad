@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "acheronSymbols")(type "Legacy")(uri "C:/Users/david/OneDrive/Documents/Shark50-master/Shark50-master/AcheronLibrary-master/symbols/acheronSymbols.lib")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "C:/Users/david/OneDrive/Documents/ProMicroKiCad-master/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name "macropad-rescue")(type "KiCad")(uri "${KIPRJMOD}/macropad-rescue.kicad_sym")(options "")(descr ""))
+)
